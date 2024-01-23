@@ -1,0 +1,7 @@
+figure.attachment {
+    pointer-events: none;
+}
+
+figure.attachment figcaption {
+    display: none;
+}
